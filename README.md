@@ -1,6 +1,6 @@
 # **Analisi dei Dati di previsione della personalità | introverso estroverso**
 
-Questo progetto analizza un dataset relativo a dati comportamentali e psicologici di diversi individuo, con l'obiettivo di esplorare, pulire e visualizzare i dati per dimostrare che il comportamento sociale (eventi frequentati, tempo passato da solo, post pubblicati...) varia in modo significativo tra introversi ed estroversi, e che certi pattern sociali possono predire la personalità di un individuo.
+Questo progetto analizza un dataset relativo a dati comportamentali e psicologici di diversi individui, con l'obiettivo di esplorare, pulire e visualizzare i dati per dimostrare che il comportamento sociale (eventi frequentati, tempo passato da solo, post pubblicati...) varia in modo significativo tra introversi ed estroversi, e che certi pattern sociali possono predire la personalità di un individuo.
 
 ## **Dati utilizzati**
 
