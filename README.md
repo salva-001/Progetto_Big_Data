@@ -61,7 +61,7 @@ L’analisi ha evidenziato come i comportamenti sociali — dal tempo trascorso 
 
 #### **Fonte Dataset**
 
-https://www.kaggle.com/datasets/shalmamuji personality-prediction-data-introvert-extrovert
+https://www.kaggle.com/datasets/shalmamujipersonality-prediction-data-introvert-extrovert
 
 #### **Versione python utilizzata:**
 
