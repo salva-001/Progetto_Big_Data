@@ -8,7 +8,7 @@ Il dataset analizzato si chiama **"personality_dataset.csv"** e contiene dati co
 
 ### **Principali colonne del dataset**:
 
-- `Time_spent_Alone`: Tempo medio che un individuo trascorre da solo (in ore).
+- `Time_spent_Alone`: Tempo medio che un individuo trascorre da solo.
 - `Stage_fear`: Indica se l'individuo sperimenta la paura del palcoscenico.
 - `Social_event_attendance`: Numero di eventi sociali partecipati di recente.
 - `Going_outside`: Frequenza di uscire per motivi non essenziali.
